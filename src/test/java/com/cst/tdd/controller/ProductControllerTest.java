@@ -122,5 +122,4 @@ class ProductControllerTest {
                 new ProductResponse("1", "Phone", "Apple iPhone 15", BigDecimal.valueOf(12000)),
                 new ProductResponse("2", "Laptop", "Dell xps Laptop", BigDecimal.valueOf(21000)));
     }
-
 }
